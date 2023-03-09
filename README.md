@@ -10,8 +10,10 @@ Ganchos para archivo
 1. Cortar con el bisturi la hoja iris y crear la doble rendija
 2. hacer un soporte utilizando el carton paja, tanto para la rendija como para el laser
 3. Colocamos el laser alineado con la rendija y proyectamos el laser.
+
 ![image](https://user-images.githubusercontent.com/124221504/224074436-0d51e0dc-5b26-4e5c-b300-5245fd101608.png)
 ![image](https://user-images.githubusercontent.com/124221504/224074539-730d623a-2a59-4fc1-99ff-40db0387f4c0.png)
+
 #El experimento de la doble rendija para la luz
 El experimento de la doble rendija es un experimento realizado a principios del siglo XIX por el físico inglés Thomas Young, con el objetivo de apoyar la teoría de que la luz era una onda y rechazar la teoría de que la luz estaba formada por partículas.
 
@@ -41,3 +43,5 @@ Para comprobarlo lanzaron electrones uno a uno con las dos rendijas abiertas y s
 El patrón de interferencias de la doble rendija fotografiado por Jönsson tenía semejanza con los patrones de doble rendija obtenidos con fuentes de luz, lo que reafirma la evidencia en favor de la naturaleza ondulatoria de las partículas.
 
 Al mismo tiempo se hicieron otros experimentos con partículas que llegaron a la misma conclusión: estas tenían propiedades de ondas. Esto no era explicable desde el punto de vista de la física clásica, por lo que formaría parte de una gran rama de física moderna, la física cuántica.
+
+![image](https://user-images.githubusercontent.com/124221504/224074956-1c30973b-2fc5-461b-a0a9-36558037830c.png)
